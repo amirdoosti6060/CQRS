@@ -3,7 +3,7 @@
 ## Introduction
 This project provide a sample that shows how to implement a **CQRS Design Pattern** in .Net 6.  
 I also wrote an article in the following address that completely explains **CQRS Design Pattern**:  
-https://www.linkedin.com/pulse/cqrs-amir-doosti  
+https://www.linkedin.com/pulse/cqrs-design-pattern-amir-doosti-ooqjf   
 
 ## Structure of soution
 The solution contains one Console App project which is written in Visual Studio. It simulate generating and sending command and queries separately and it shows how a materialized view can use in such scenarios.
